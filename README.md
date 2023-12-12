@@ -3,6 +3,8 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=dda77b&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Fernanda+Gomes;Be+Welcome!+:%29)](https://git.io/typing-svg) -->
 
+<!-- https://github.com/kyechan99/capsule-render-->
+
 # Hi! I'm Fernanda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 Passionate frontend developer from Oslo, Norway. I love to give life to ideas 💡and build great UX 🖥️
