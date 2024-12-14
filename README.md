@@ -1,68 +1,63 @@
-<!-- https://capsule-render.vercel.app/api?type=waving&color=91B9CA&height=120&section=header -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B9CA&height=120&section=header"/>
-
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=dda77b&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Fernanda+Gomes;Be+Welcome!+:%29)](https://git.io/typing-svg) -->
-
-<!-- https://github.com/kyechan99/capsule-render-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282A36&height=120&section=header"/>
 
 # Hi! I'm Fernanda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-Passionate frontend developer from Oslo, Norway. 
+Passionate frontend developer from Oslo, Norway.
 
 I love to give life to ideas 💡and build great UX 🖥️.
+My process starts with defining a clear design foundation—creating color palettes, typography, and UI guidelines—before moving to Figma prototyping, coding and deploying.
+Check out my [portfolio](https://fp22fd.github.io/FP22FD-portfolio/) to see projects I've built with full functionality, including Authentication and integration with real CRUD REST APIs.
 
-Currently studying `Frontend development` @ Noroff, Norway.
+I am a graduate of the `Frontend development` course at the @Noroff Institute in Oslo, Norway.
 
-## My core skills:
+## 🚀 About Me
 
-- Figma
-- Html & CSS
-- JavaScript
-- GIT
-- VS Code
-- Postman
-- Wordpress API
-- UX & Accessibility
+- 🌱 I'm currently improving my skills with advanced React and TypeScript.
+- 👯 I'm actively seeking opportunities to join a dynamic team where I can contribute to creating exceptional web experiences.
+- 🖥️ I have a interest in frontend development, UX design, and accessibility, and I continually strive to grow in these areas.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Email](mailto:fernandapg82@gmail.com)
 
-<!--
-<a href="fernandapereiragomes.github.io">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FP22FD&show_icons-true&theme-dracula&include_all_commits-true&count_private-true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FP22FD&layout-compact&langs_count-16&theme-dracula"/>
--->
+## 🛠️ My Core Skills
 
-<!-- 
-<div style="display: inline_block"><br>
-  <img align="center" alt="fernanda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="fernanda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="fernanada-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="fernanada-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-</div>
--->
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+- ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+- ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+- ![UX & Accessibility](https://img.shields.io/badge/-UX%20%26%20Accessibility-000000?style=flat&logo=accessibility&logoColor=white)
+- CI/CD
 
-<!-- ### main Stack: -->
+## 📈 GitHub Stats
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-B659FF.svg?style=for-the-badge&logo=Figma&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![Fernanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=FP22FD&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FP22FD&layout=compact&theme=dracula)
 
-## My Portfolio
+## 📌 Pinned Repositories
 
-Take a look at my [portfolio](https://fp22fd.github.io/) for more details about me.
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FP22FD&repo=holidaze-booking&theme=dracula)](https://github.com/FP22FD/holidaze-booking/blob/main/README.md)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FP22FD&repo=online-shop-CA&theme=dracula)](https://github.com/FP22FD/online-shop-CA/blob/main/README.md)
 
-<!-- 
-[<img src="https://img.shields.io/badge/PORTFOLIO-%2F8F4A.svg?&style=for-the-badge&&logoColor=white" target="_blank">]()
--->
+## 🌐 My Portfolio
 
-## My hobby
+Take a look at my [portfolio](https://fp22fd.github.io/FP22FD-portfolio/) for more details about me.
 
-Hobby crocheter and pattern builder, visit [my Etsy store](https://fernandascraftroom.etsy.com).
+## 🎨 My Hobby
 
-## Contacts:
+When I'm not building web experiences, I enjoy exploring my creative side as a digital craft pattern designer.
+This hobby fuels my attention to detail and design, which I bring to my development projects.
+Visit [my Etsy store](https://fernandascraftroom.etsy.com) to explore my designs and creative side.
 
-[<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank">](https://www.linkedin.com/in/fernandapereiragomes/)
-[<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">](mailto:fernandapg82@gmail.com)
+## 📫 Contacts
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B9CA&height=120&section=footer"/>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandapereiragomes/)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white)](mailto:fernandapg82@gmail.com)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282A36&height=120&section=footer"/>
