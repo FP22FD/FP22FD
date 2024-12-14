@@ -15,7 +15,7 @@ I am a graduate of the `Frontend development` course at the @Noroff Institute in
 - 🌱 I'm currently improving my skills with advanced React and TypeScript.
 - 👯 I'm actively seeking opportunities to join a dynamic team where I can contribute to creating exceptional web experiences.
 - 🖥️ I have a interest in frontend development, UX design, and accessibility, and I continually strive to grow in these areas.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Email](mailto:fernandapg82@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fernandapereiragomes) | [Email](mailto:fernandapg82@gmail.com)
 
 ## 🛠️ My Core Skills
 
