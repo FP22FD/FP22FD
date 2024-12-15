@@ -33,7 +33,7 @@ I am a graduate of the `Frontend development` course at the @Noroff Institute in
 - ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 - ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 - ![UX & Accessibility](https://img.shields.io/badge/-UX%20%26%20Accessibility-000000?style=flat&logo=accessibility&logoColor=white)
-- CI/CD
+- ![CI/CD](https://img.shields.io/badge/-CI%2FCD-000000?style=flat&logo=netlify&logoColor=white)
 
 ## 📈 GitHub Stats
 
