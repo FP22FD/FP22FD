@@ -49,11 +49,11 @@ I am a graduate of the `Frontend development` course at the @Noroff Institute in
 
 Take a look at my [portfolio](https://fp22fd.github.io/FP22FD-portfolio/) for more details about me.
 
-## 🎨 My Hobby
+<!-- ## 🎨 My Hobby
 
 When I'm not building web experiences, I enjoy exploring my creative side as a digital craft pattern designer.
 This hobby fuels my attention to detail and design, which I bring to my development projects.
-Visit [my Etsy store](https://fernandascraftroom.etsy.com) to explore my designs and creative side.
+Visit [my Etsy store](https://fernandascraftroom.etsy.com) to explore my designs and creative side. -->
 
 ## 📫 Contacts
 
