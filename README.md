@@ -37,6 +37,7 @@ I am a graduate of the `Frontend development` course at the @Noroff Institute in
 - ![SQL](https://img.shields.io/badge/-SQL-28BCF2?style=flat&logo=sql&logoColor=white)
 - ![Storybook](https://img.shields.io/badge/-storybook-FC4786?style=flat&logo=storybook&logoColor=white)
 - ![i18next](https://img.shields.io/badge/-i18next-199688?style=flat&logo=i18n&logoColor=white)
+- ![Vue 3](https://img.shields.io/badge/-Vue_3-3FB27F?style=flat&logo=vue3&logoColor=white)
 
 ## 📈 GitHub Stats
 
