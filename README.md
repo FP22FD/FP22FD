@@ -34,10 +34,12 @@ I am a graduate of the `Frontend development` course at the @Noroff Institute in
 - ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 - ![UX & Accessibility](https://img.shields.io/badge/-UX%20%26%20Accessibility-073163?style=flat&logo=accessibility&logoColor=white)
 - ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2B2D34?style=flat&logo=ci-cd&logoColor=white)
+- ![i18n](https://img.shields.io/badge/-i18n-3B80F5?style=flat&logo=i18n&logoColor=white)
+- ![i18Next](https://img.shields.io/badge/-i18Next-199688?style=flat&logo=i18n&logoColor=white)
+- ![Vue 3](https://img.shields.io/badge/-Vue_3-3FB27F?style=flat&logo=vue3&logoColor=white)
 - ![SQL](https://img.shields.io/badge/-SQL-28BCF2?style=flat&logo=sql&logoColor=white)
 - ![Storybook](https://img.shields.io/badge/-storybook-FC4786?style=flat&logo=storybook&logoColor=white)
-- ![i18next](https://img.shields.io/badge/-i18next-199688?style=flat&logo=i18n&logoColor=white)
-- ![Vue 3](https://img.shields.io/badge/-Vue_3-3FB27F?style=flat&logo=vue3&logoColor=white)
+
 
 ## 📈 GitHub Stats
 
