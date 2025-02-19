@@ -12,7 +12,7 @@ I am a graduate of the `Frontend development` course at the @Noroff Institute in
 
 ## 🚀 About Me
 
-- 🌱 I'm currently improving my skills with advanced React and TypeScript.
+- 🌱 I'm currently improving my skills with advanced React and TypeScript, Vue 3, and Next.js.
 - 👯 I'm actively seeking opportunities to join a dynamic team where I can contribute to creating exceptional web experiences.
 - 🖥️ I have a interest in frontend development, UX design, and accessibility, and I continually strive to grow in these areas.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fernandapereiragomes) | [Email](mailto:fernandapg82@gmail.com)
@@ -32,13 +32,19 @@ I am a graduate of the `Frontend development` course at the @Noroff Institute in
 - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 - ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 - ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-- ![UX & Accessibility](https://img.shields.io/badge/-UX%20%26%20Accessibility-073163?style=flat&logo=accessibility&logoColor=white)
 - ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2B2D34?style=flat&logo=ci-cd&logoColor=white)
 - ![i18n](https://img.shields.io/badge/-i18n-3B80F5?style=flat&logo=i18n&logoColor=white)
 - ![i18Next](https://img.shields.io/badge/-i18Next-199688?style=flat&logo=i18n&logoColor=white)
 - ![Vue 3](https://img.shields.io/badge/-Vue_3-3FB27F?style=flat&logo=vue3&logoColor=white)
 - ![SQL](https://img.shields.io/badge/-SQL-28BCF2?style=flat&logo=sql&logoColor=white)
 - ![Storybook](https://img.shields.io/badge/-storybook-FC4786?style=flat&logo=storybook&logoColor=white)
+- ![a11y](https://img.shields.io/badge/a11y-Accessibility-073163)
+- ![WCAG 2.1](https://img.shields.io/badge/WCAG%202.1-Accessibility-073163)
+- ![UI/UX](https://img.shields.io/badge/UI%20/%20UX-Accessibility-073163)
+
+
+
+
 
 
 ## 📈 GitHub Stats
