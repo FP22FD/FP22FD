@@ -74,6 +74,11 @@ Visit [my Etsy store](https://fernandascraftroom.etsy.com) to explore my designs
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282A36&height=120&section=footer"/>
 
-![Snake animation](https://github.com/FP22FD/FP22FD/blob/output/github-snake-dark.svg?palette=github-dark)
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FP22FD/FP22FD/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FP22FD/FP22FD/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FP22FD/FP22FD//output/github-contribution-grid-snake.svg">
+</picture>
 
 
