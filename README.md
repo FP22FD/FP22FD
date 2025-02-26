@@ -73,3 +73,6 @@ Visit [my Etsy store](https://fernandascraftroom.etsy.com) to explore my designs
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white)](mailto:fernandapg82@gmail.com)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282A36&height=120&section=footer"/>
+
+![Snake animation](https://github.com/FP22FD/FP22FD/blob/output/github-contribution-grid-snake.svg)
+
