@@ -17,6 +17,13 @@ I am a graduate of the `Frontend development` course at the @Noroff Institute in
 - 🖥️ I have a interest in frontend development, UX design, and accessibility, and I continually strive to grow in these areas.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fernandapereiragomes) | [Email](mailto:fernandapg82@gmail.com)
 
+## 🏆 Certifications
+
+![AZ-900](https://img.shields.io/badge/Microsoft-AZ--900-blue?style=flat&logo=microsoft&logoColor=white)  
+**Microsoft Azure Fundamentals (AZ-900)**  
+Credential ID: A13B1D4BE870FCE8  
+<!-- [View Certification](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification) -->
+
 ## 🛠️ My Core Skills
 
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
