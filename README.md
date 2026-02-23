@@ -17,12 +17,14 @@ I am a graduate of the `Frontend development` course at the @Noroff Institute in
 - 🖥️ I have a interest in frontend development, UX design, and accessibility, and I continually strive to grow in these areas.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fernandapereiragomes) | [Email](mailto:fernandapg82@gmail.com)
 
-## 🏆 Certifications
+## 🏆 Certifications 
 
-![AZ-900](https://img.shields.io/badge/Microsoft-AZ--900-blue?style=flat&logo=microsoft&logoColor=white)  
-**Microsoft Azure Fundamentals (AZ-900)**  
-Credential ID: A13B1D4BE870FCE8  
-<!-- [View Certification](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification) -->
+<!-- ![Credential](https://img.shields.io/badge/Credential-blue?style=flat&logo=microsoft&logoColor=white) --> 
+<!-- ![Badge](https://img.shields.io/badge/-Badge-563D7C?style=flat&logo=badge&logoColor=white) -->
+<!-- ![Badge](https://img.shields.io/badge/-Badge-563D7C?style=flat&logo=badge&logoColor=white) -->
+- Microsoft Azure Fundamentals: Creadential [(AZ-900)](https://learn.microsoft.com/api/credentials/share/en-us/FernandaPereiraGomes-8245/A13B1D4BE870FCE8?sharingId=8851944F12AA7E2D) 
+- Developing Solutions for Microsoft Azure: Badge [(AZ-204)](https://learn.microsoft.com/en-us/training/courses/az-204t00) 
+- Azure AI Engineer Associate: Badge [(AI-102)](https://learn.microsoft.com/en-us/training/courses/ai-102t00)
 
 ## 🛠️ My Core Skills
 
