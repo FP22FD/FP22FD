@@ -5,14 +5,14 @@
 Passionate frontend developer from Oslo, Norway.
 
 I love to give life to ideas 💡and build great UX 🖥️.
-My process starts with defining a clear design foundation—creating color palettes, typography, and UI guidelines—before moving to Figma prototyping, coding and deploying.
+My process starts with defining a clear design foundation and creating color palettes, typography, and UI guideline, before moving to Figma prototyping, coding and deploying.
 Check out my [portfolio](https://fp22fd.github.io/FP22FD-portfolio/) to see projects I've built with full functionality, including Authentication and integration with real CRUD REST APIs.
 
 I am a graduate of the `Frontend development` course at the @Noroff Institute in Oslo, Norway.
 
 ## 🚀 About Me
 
-- 🌱 I'm currently improving my skills with advanced React and TypeScript, Vue 3, and Next.js.
+- 🌱 Currently developing backend development skills (C#/.NET) and Microsoft Azure proficiency through a educational program with the Norwegian company Glasspaper.
 - 👯 I'm actively seeking opportunities to join a dynamic team where I can contribute to creating exceptional web experiences.
 - 🖥️ I have a interest in frontend development, UX design, and accessibility, and I continually strive to grow in these areas.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fernandapereiragomes) | [Email](mailto:fernandapg82@gmail.com)
@@ -51,17 +51,16 @@ Credential ID: A13B1D4BE870FCE8
 
 ## 📈 GitHub Stats
 
-![Fernanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=FP22FD&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FP22FD&langs_count=5&theme=dracula)
+![Fernanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=FP22FD&show_icons=true&theme=dracula&v=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FP22FD&langs_count=5&theme=dracula&v=1)
 
 <!-- [Link oculto](https://github.com/anuraghazra/github-readme-stats#customization) -->
 
 
 ## 📌 Pinned Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FP22FD&repo=holidaze-booking&theme=dracula)](https://github.com/FP22FD/holidaze-booking/blob/main/README.md)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FP22FD&repo=online-shop-CA&theme=dracula)](https://github.com/FP22FD/online-shop-CA/blob/main/README.md)
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FP22FD&repo=holidaze-booking&theme=dracula&v=1)](https://github.com/FP22FD/holidaze-booking/blob/main/README.md)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FP22FD&repo=online-shop-CA&theme=dracula&v=1)](https://github.com/FP22FD/online-shop-CA/blob/main/README.md)
 
 ## 🌐 My Portfolio
 
