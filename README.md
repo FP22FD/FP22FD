@@ -2,19 +2,19 @@
 
 # Hi! I'm Fernanda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-Passionate frontend developer from Oslo, Norway.
+Fullstack developer passionate about frontend, user experience, and modern web development.
 
 I love to give life to ideas 💡and build great UX 🖥️.
 My process starts with defining a clear design foundation and creating color palettes, typography, and UI guideline, before moving to Figma prototyping, coding and deploying.
 Check out my [portfolio](https://fp22fd.github.io/FP22FD-portfolio/) to see projects I've built with full functionality, including Authentication and integration with real CRUD REST APIs.
 
-I am a graduate of the `Frontend development` course at the @Noroff Institute in Oslo, Norway.
+I am a graduate of the `Frontend development` course at the @Noroff Institute in Oslo, Norway. See my CV for more details.
 
 ## 🚀 About Me
 
-- 🌱 Currently developing backend development skills (C#/.NET) and Microsoft Azure proficiency through a educational program with the Norwegian company `Glasspaper`.
+- 🌱 Currently developing backend development skills (C#/.NET) and Microsoft Azure proficiency through a educational program with the Norwegian company `Glasspaper`. See my CV for more details.
 - 👯 I'm actively seeking opportunities to join a dynamic team where I can contribute to creating exceptional web experiences.
-- 🖥️ I have a interest in frontend development, UX design, and accessibility, and I continually strive to grow in these areas.
+- 🖥️ I have a interest in frontend, backend development, UX design, and accessibility, and I continually strive to grow in these areas.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fernandapereiragomes) | [Email](mailto:fernandapg82@gmail.com)
 
 ## 🏆 Certifications 
