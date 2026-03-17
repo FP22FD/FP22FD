@@ -2,7 +2,7 @@
 
 # Hi! I'm Fernanda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-Fullstack developer passionate about frontend, user experience, and modern web development.
+`Fullstack developer` passionate about frontend, user experience, and modern web development.
 
 I love to give life to ideas 💡and build great UX 🖥️.
 My process starts with defining a clear design foundation and creating color palettes, typography, and UI guideline, before moving to Figma prototyping, coding and deploying.
@@ -51,18 +51,18 @@ I am a graduate of the `Frontend development` course at the @Noroff Institute in
 - ![WCAG 2.1](https://img.shields.io/badge/WCAG%202.1-Accessibility-073163)
 - ![UI/UX](https://img.shields.io/badge/UI%20/%20UX-Accessibility-073163)
 
-## 📈 GitHub Stats
+<!--## 📈 GitHub Stats
 
 ![Fernanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=FP22FD&show_icons=true&theme=dracula&v=1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FP22FD&langs_count=5&theme=dracula&v=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FP22FD&langs_count=5&theme=dracula&v=1)-->
 
 <!-- [Link oculto](https://github.com/anuraghazra/github-readme-stats#customization) -->
 
 
-## 📌 Pinned Repositories
+<!-- ## 📌 Pinned Repositories
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FP22FD&repo=holidaze-booking&theme=dracula&v=1)](https://github.com/FP22FD/holidaze-booking/blob/main/README.md)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FP22FD&repo=online-shop-CA&theme=dracula&v=1)](https://github.com/FP22FD/online-shop-CA/blob/main/README.md)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FP22FD&repo=online-shop-CA&theme=dracula&v=1)](https://github.com/FP22FD/online-shop-CA/blob/main/README.md) -->
 
 ## 🌐 My Portfolio
 
